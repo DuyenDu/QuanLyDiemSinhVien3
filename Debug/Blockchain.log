@@ -1,0 +1,4 @@
+﻿  Database.cpp
+D:\Cấu trúc dữ liệu và giải thuật\04-12-2021\Blockchain\Database.cpp(587,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Cấu trúc dữ liệu và giải thuật\04-12-2021\Blockchain\Database.cpp(491): warning C4715: 'compareFile': not all control paths return a value
+  Blockchain.vcxproj -> D:\Cấu trúc dữ liệu và giải thuật\04-12-2021\Blockchain\Debug\Blockchain.exe
