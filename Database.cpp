@@ -599,8 +599,8 @@ void isBlockChainValid(const char* s, Student_info student)
 {
 	getGenesisFromDataBase(s, student);
 	getBlockchainFromDataBase(s, student);
-	int size = Chain.size() == hashChain.size() ? Chain.size() : -1;
-	if (size != -1)
+	int size = Chain.size() == hashChain.size() ? Chain.size() : 0;
+	if (size != 0)
 	{
 		for (int i = 0; i < size; i++ )
 		{
